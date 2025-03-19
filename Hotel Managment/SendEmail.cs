@@ -8,7 +8,7 @@ using Microsoft.Xrm.Sdk.Query;
 
 namespace Hotel_Managment
 {
-    public class Class1 : IPlugin
+    public class SendEmail : IPlugin
     {
         public void Execute(IServiceProvider serviceProvider)
         {
